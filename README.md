@@ -1,7 +1,7 @@
-### Me
+### @isaboo
 
 Hi,
-I'm Isaac the owner of isaboo.co.uk.
+I'm Isaac the owner of isaboo.co.uk and @overthebrim
 
 Here you can find all the source code from my projects.
 
@@ -12,8 +12,6 @@ You can even contribute your code!<br>
 
 [My Site](http://isaboo.github.io)<br>
 
-I work in HTML, CSS and JS.
-
-I know a bit of react.js and I'm currently learning electron and typescript. I also know some python.
+I work in HTML, CSS and JS most of the time.
 
 
