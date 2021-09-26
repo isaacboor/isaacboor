@@ -1,7 +1,7 @@
-### @isaboo
+### isaboo
 
 Hi,
-I'm Isaac the owner of isaboo.co.uk and @overthebrim
+I'm Isaac the owner of isaboo.co.uk and [@overthebrim](github.com/overthebrim)
 
 Here you can find all the source code from my projects.
 
