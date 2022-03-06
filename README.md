@@ -1,7 +1,9 @@
 ### isaboo
 
 Hi,
-I'm Isaac the owner of isaboo.co.uk
+I'm Isaac and I make random stuff.
 
-My website: [isaboo.co.uk](//www.isaboo.co.uk)  
-My Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
+Find me on:
+
+Website: [isaboo.co.uk](//www.isaboo.co.uk)  
+Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
