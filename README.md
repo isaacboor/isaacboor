@@ -1,8 +1,7 @@
-### isaboo
+# IsaacDoesCodes
 
-Hi,
-I'm Isaac and I make random stuff.
+Young coder. Mostly front-end web dev.
 
 Find me on my:  
-> Website: [isaboo.co.uk](//www.isaboo.co.uk)  
+> Website: [isaacdoescodes.com](//www.isaacdoescodes.com) 
 > Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
