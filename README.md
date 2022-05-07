@@ -21,3 +21,7 @@ Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
 🇬🇧 from England
 
 💻 mac user
+
+### Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacdoescodes)](https://github.com/anuraghazra/github-readme-stats)
