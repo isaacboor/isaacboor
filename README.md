@@ -21,3 +21,5 @@ Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
 🧐 a little knowing in Python, PHP and Node.js.
 
 🇬🇧 from England
+
+💻 mac user
