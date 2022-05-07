@@ -10,10 +10,14 @@ Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
 
 ### I am...
 
-🔨 Currently working on an app called ScreenPin
+🔨 currently working on an app called ScreenPin
 
-🌱 Currently learning nothing
+🌱 currently learning nothing
 
-🤔 Thinking about learning TypeScript, React, Next, SwiftUI
+🤔 thinking about learning TypeScript, React, Next, SwiftUI
 
-⛷️ I am somewhat skilled at HTML, CSS, JS, Sass, Jekyll, Electron
+⛷️ somewhat skilled at HTML, CSS, JS, Sass, Jekyll, Electron
+
+🧐 a little knowing in Python, PHP and Node.js.
+
+🇬🇧 from England
