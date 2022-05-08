@@ -10,13 +10,13 @@ Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
 
 :hammer: currently working on an app called ScreenPin
 
-:seedling: currently learning nothing
+:seedling: currently learning Sass & Electron
 
 :thinking: thinking about learning TypeScript, React, Next, SwiftUI
 
-:skier: somewhat skilled at HTML, CSS, JS, Sass, Jekyll, Electron
+:skier: somewhat skilled at HTML, CSS, JS, Jekyll
 
-:monocle_face: a little knowing in Python, PHP and Node.js.
+:monocle_face: a little knowing in Python, PHP, Node.js, Sass, Electron
 
 :uk: from England
 
