@@ -10,7 +10,7 @@ Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
 
 :hammer: currently working on an app called ScreenPin
 
-:seedling: currently learning Sass & Electron
+:seedling: currently learning Electron
 
 :thinking: thinking about learning TypeScript, React, Next, SwiftUI
 
