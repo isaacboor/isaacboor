@@ -1,4 +1,4 @@
-Young coder. Mostly front-end web dev.
+Just a typical computer nerd
 
 ### Find me on my:  
 
