@@ -2,10 +2,10 @@ Just a typical computer nerd
 
 ### Find me on my:  
 
-Website: [isaacdoescodes.com](//www.isaacdoescodes.com)
+Website: [isaacdoescodes.com](//www.isaacboor.me)
  
-Tiktok: [@isaacdoescodes](//tiktok.com/@isaacdoescodes)
+Tiktok: [@isaacboor](//tiktok.com/@isaac.boor)
 
 ### Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacdoescodes&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacboor&langs_count=8)
