@@ -2,7 +2,7 @@ Just a typical computer nerd
 
 ### Find me on my:  
 
-Website: [isaacdoescodes.com](//www.isaacboor.me)
+Website: [isaacboor.me](//www.isaacboor.me)
  
 Tiktok: [@isaacboor](//tiktok.com/@isaac.boor)
 
