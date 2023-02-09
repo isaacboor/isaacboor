@@ -7,6 +7,6 @@ Casual Proggrammer
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacboor)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacboor&theme=transparent)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacboor&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacboor&langs_count=10&theme=transparent)
