@@ -1,11 +1,10 @@
-Just a typical computer nerd
+Casual Proggrammer
 
-### Find me on my:  
+### Links
 
-Website: [isaacboor.me](//www.isaacboor.me)
+🔗 [isaacboor.me](//www.isaacboor.me)
  
-Tiktok: [@isaacboor](//tiktok.com/@isaac.boor)
 
-### Statistics
+### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacboor&langs_count=8)
