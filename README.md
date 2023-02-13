@@ -1,4 +1,4 @@
-Casual Proggrammer
+Casual Programmer
 
 ### Links
 
