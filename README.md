@@ -3,16 +3,6 @@
 
 Casual Programmer / Web Developer.
 
-### Knowledgable in...
-
-- HTML, CSS, Javascript
-- Electron & Node.js
-- Svelte (SvelteKit)
-
-### Learning...
-
-- React & Next.js
-- Firebase
-- More SvelteKit
+- Mostly use SvelteKit
 
 My Website: [isaxk.com](https://www.isaxk.com)
