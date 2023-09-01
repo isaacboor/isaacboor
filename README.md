@@ -11,6 +11,7 @@ Casual Programmer / Web Developer.
 
 ### Learning...
 
+- React & Next.js
 - Firebase
 - More SvelteKit
 
