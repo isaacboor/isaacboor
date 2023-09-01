@@ -3,6 +3,9 @@
 
 Casual Programmer / Web Developer.
 
-- Mostly use SvelteKit
+### Preferences
+
+- FrontEnd: SvelteKit
+- Backend: Firebase
 
 My Website: [isaxk.com](https://www.isaxk.com)
