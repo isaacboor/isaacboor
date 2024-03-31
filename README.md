@@ -7,5 +7,6 @@ Casual Web/Game Dev
 
 - FrontEnd: SvelteKit
 
-My Website: [isaxk.com](https://www.isaxk.com)
+My Website: [isaxk.com](https://www.isaxk.com) 
+
 Itch.io: [isaxkb.itch.io](Https://isaxkb.itch.io)
